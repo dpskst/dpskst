@@ -1,16 +1,40 @@
-## Hi there 👋
+# 장성태
 
-<!--
-**dydcjsrjaror/dydcjsrjaror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure / DevOps Engineer
 
-Here are some ideas to get you started:
+정보보안과 서버 운영 경험을 기반으로
+Infrastructure 및 DevOps 환경으로 역량을 확장하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- Docker
+- Kubernetes
+- ArgoCD
+- GitHub Actions
+- Prometheus
+- Grafana
+- Zabbix
+- Nagios
+- Nginx
+- Apache / Tomcat
+
+## Projects
+
+### 01. Docker CI/CD Pipeline
+
+Docker와 GitHub Actions를 활용한 CI/CD 자동화
+
+[Repository](https://github.com/dydcjsrjaror/docker-cicd-pipeline)
+
+### 02. Kubernetes ArgoCD GitOps
+
+Kubernetes와 ArgoCD를 활용한 GitOps 기반 배포 자동화
+
+[Repository](https://github.com/dydcjsrjaror/kubernetes-argocd-gitops)
+
+### 03. Kubernetes Prometheus Grafana Monitoring
+
+Prometheus와 Grafana를 활용한 Kubernetes 모니터링 및 Alerting
+
+[Repository](https://github.com/dydcjsrjaror/kubernetes-prometheus-grafana-monitoring)
