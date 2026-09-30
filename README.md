@@ -1,26 +1,39 @@
 # 장성태
 
-Infrastructure / DevOps Engineer
+# Infrastructure / DevOps Engineer
 
-정보보안과 서버 운영 경험을 기반으로
-Infrastructure 및 DevOps 환경으로 역량을 확장하고 있습니다.
+정보보안과 서버 운영 경험을 기반으로 Infrastructure 및 DevOps 환경으로 역량을 확장하고 있습니다.
 
 ## Skills
 
+### Infrastructure
 - Linux
-- Bash
+- AWS
+  - VPC
+  - EC2
+  - ALB
+  - Security Group
+  - Subnet / Route Table / Internet Gateway
+- Nginx
+- Apache / Tomcat
+
+### DevOps
 - Docker
 - Kubernetes
 - ArgoCD
 - GitHub Actions
 - Terraform
 - Ansible
+
+### Monitoring
 - Prometheus
 - Grafana
 - Zabbix
 - Nagios
-- Nginx
-- Apache / Tomcat
+
+### Scripting
+- Bash
+- Python
 
 ## Projects
 
