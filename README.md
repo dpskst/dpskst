@@ -38,3 +38,9 @@ Kubernetes와 ArgoCD를 활용한 GitOps 기반 배포 자동화
 Prometheus와 Grafana를 활용한 Kubernetes 모니터링 및 Alerting
 
 [Repository](https://github.com/dydcjsrjaror/kubernetes-prometheus-grafana-monitoring)
+
+### 04. Terraform Ansible IaC
+
+Terraform과 Ansible을 활용한 Linux 서버 Infrastructure 및 Configuration 자동화
+
+[Repository](https://github.com/dydcjsrjaror/terraform-ansible-iac)
