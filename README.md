@@ -2,7 +2,7 @@
 
 # Infrastructure / DevOps Engineer
 
-정보보안과 서버 운영 경험을 기반으로 Infrastructure 및 DevOps 환경으로 역량을 확장하고 있습니다.
+정보보안과 인프라·서버 운영 경험을 기반으로 Cloud & DevOps 엔지니어로 역량을 확장하고 있습니다.
 
 ## Skills
 
