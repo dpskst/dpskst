@@ -8,10 +8,13 @@ Infrastructure 및 DevOps 환경으로 역량을 확장하고 있습니다.
 ## Skills
 
 - Linux
+- Bash
 - Docker
 - Kubernetes
 - ArgoCD
 - GitHub Actions
+- Terraform
+- Ansible
 - Prometheus
 - Grafana
 - Zabbix
