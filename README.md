@@ -46,5 +46,7 @@ Terraform과 Ansible을 활용한 Linux 서버 Infrastructure 및 Configuration 
 [Repository](https://github.com/dydcjsrjaror/terraform-ansible-iac)
 
 ### 05. Linux Security Compliance Automation
+
 Linux 서버 보안 점검 및 GitHub Actions 기반 컴플라이언스 자동화
+
 [Repository](https://github.com/dpskst/linux-security-compliance)
