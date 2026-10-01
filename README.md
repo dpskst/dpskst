@@ -66,3 +66,14 @@ Terraform과 Ansible을 활용한 Linux 서버 Infrastructure 및 Configuration 
 Linux 서버 보안 점검 및 GitHub Actions 기반 컴플라이언스 자동화
 
 [Repository](https://github.com/dpskst/linux-security-compliance)
+
+### 06. AWS-vpc-alb-lab
+AWS VPC 기반 Public/Private Subnet 네트워크 구성 및 ALB를 활용한 Private EC2 서비스 구축
+
+[Repository](https://github.com/dpskst/AWS-vpc-alb-lab)
+
+### 07. AWS-infrastructure-monitoring 
+
+AWS 환경에서 Zabbix, CloudWatch, Grafana를 활용한 인프라 모니터링
+
+[Repository](https://github.com/dpskst/AWS-infrastructure-monitoring)
