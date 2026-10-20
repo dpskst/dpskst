@@ -59,7 +59,7 @@ Prometheus와 Grafana를 활용한 Kubernetes 모니터링 및 Alerting
 
 Terraform과 Ansible을 활용한 Linux 서버 Infrastructure 및 Configuration 자동화
 
-[Repository](https://github.com/dydcjsrjaror/terraform-ansible-iac)
+[Repository](https://github.com/dpskst/terraform-ansible-iac)
 
 ### 05. Linux Security Compliance Automation
 
